@@ -1,3 +1,6 @@
+# License
+Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0)
+
 # RealLifeCityRS
 My distrobution of the DDG Resourcepack https://forum.dusdavidgames.nl/packs/
 
