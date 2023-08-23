@@ -1,8 +1,8 @@
+# License
+Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0)
+
 # RealLifeCityRS
 My distrobution of the DDG Resourcepack https://forum.dusdavidgames.nl/packs/
-
-# Original 1.12.2
-**Name**: SentilCity Resourcepack
 
 
 **Description**: [SentilCity] Resource Pack (PRE-ALPHA8) 
