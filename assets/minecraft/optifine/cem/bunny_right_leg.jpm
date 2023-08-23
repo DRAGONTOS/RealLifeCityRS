@@ -1,0 +1,48 @@
+{
+  "texture": "textures/entity/zombie/bunny_right_leg",
+	"textureSize": [32, 32],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-1.5, 2, -6, 5, 2, 9],
+			"uvNorth": [20, 30, 25, 32],
+			"uvEast": [17, 30, 24, 32],
+			"uvSouth": [15, 30, 19, 32],
+			"uvWest": [21, 30, 28, 32],
+			"uvUp": [22, 24, 26, 30],
+			"uvDown": [28, 25, 32, 32]
+		}
+	],
+	"submodels": [
+		{
+			"id": "cube",
+			"rotate": [20, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-1, -10.6, -3.6, 4, 9, 4],
+					"uvNorth": [4, 26, 7, 32],
+					"uvEast": [4, 26, 7, 32],
+					"uvSouth": [4, 26, 7, 32],
+					"uvWest": [4, 26, 7, 32],
+					"uvUp": [6, 29, 9, 32],
+					"uvDown": [6, 29, 9, 32]
+				}
+			]
+		},
+		{
+			"id": "cube",
+			"rotate": [-20, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-1, -1.51131, -4.72925, 4, 6, 4],
+					"uvNorth": [4, 26, 7, 32],
+					"uvEast": [4, 26, 7, 32],
+					"uvSouth": [4, 26, 7, 32],
+					"uvWest": [4, 26, 7, 32],
+					"uvUp": [6, 29, 9, 32],
+					"uvDown": [6, 29, 9, 32]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+  "comment": "model by luccah",
+  "textureSize": [64,64],
+  "models": 
+  [
+	{
+      "model": "owl_head.jpm",
+      "part": "head", 
+      "attach": true,
+      "translate": [-0.25, 8, -4],
+      "rotate": [0, 180, 0]
+    }
+
+    
+  ]
+}

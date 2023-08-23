@@ -1,0 +1,48 @@
+{
+  "texture": "textures/entity/cow/appa_1_leg",
+	"textureSize": [32, 32],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [8.5, 11.23503, -3.99343, 5, 1, 6],
+			"uvNorth": [12, 11, 17, 12],
+			"uvEast": [17, 16, 23, 17],
+			"uvSouth": [0, 19, 5, 20],
+			"uvWest": [18, 10, 24, 11],
+			"uvUp": [11, 6, 6, 0],
+			"uvDown": [16, 0, 11, 6]
+		}
+	],
+	"submodels": [
+		{
+			"id": "leg3",
+			"rotate": [10, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [8.5, 6.41279, -4.97486, 5, 5, 5],
+					"uvNorth": [0, 14, 5, 19],
+					"uvEast": [16, 0, 21, 5],
+					"uvSouth": [17, 17, 22, 22],
+					"uvWest": [17, 11, 22, 16],
+					"uvUp": [10, 23, 5, 18],
+					"uvDown": [23, 5, 18, 10]
+				}
+			]
+		},
+		{
+			"id": "leg1",
+			"rotate": [-2.5, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [8, 0.38115, -3.468, 6, 7, 5],
+					"uvNorth": [0, 0, 6, 7],
+					"uvEast": [0, 7, 5, 14],
+					"uvSouth": [6, 6, 12, 13],
+					"uvWest": [12, 12, 17, 19],
+					"uvUp": [18, 11, 12, 6],
+					"uvDown": [11, 13, 5, 18]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,259 @@
+{
+  "comment": "Model by Fyrtarn",
+  "textureSize": [64,64],
+  "models":
+  [
+	  {
+      "model": "ghost_body.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "vampire_head.jpm",
+      "part": "head",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "vampire_body.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "vampire_right_leg.jpm",
+      "part": "right_leg",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "vampire_left_leg.jpm",
+      "part": "left_leg",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "bunny_head.jpm",
+      "part": "head",
+      "attach": true,
+      "translate": [-0.25, 8, -4],
+      "rotate": [0, 180, 0]
+    },
+    {
+      "model": "bunny_body.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [-0.25, 8, -4],
+      "rotate": [0, 180, 0]
+    },
+    {
+      "model": "bunny_headwear.jpm",
+      "part": "headwear",
+      "attach": true,
+      "translate": [-0.25, 8, -4],
+      "rotate": [0, 180, 0]
+    },
+    {
+      "model": "bunny_left_arm.jpm",
+      "part": "left_arm",
+      "attach": true,
+      "translate": [-0.25, 8, -4],
+      "rotate": [0, 180, 0]
+    },
+    {
+      "model": "bunny_right_arm.jpm",
+      "part": "right_arm",
+      "attach": true,
+      "translate": [-0.25, 8, -4],
+      "rotate": [0, 180, 0]
+    },
+    {
+      "model": "bunny_left_leg.jpm",
+      "part": "left_leg",
+      "attach": true,
+      "translate": [-0.25, 8, -4],
+      "rotate": [0, 180, 0]
+    },
+    {
+      "model": "bunny_right_leg.jpm",
+      "part": "right_leg",
+      "attach": true,
+      "translate": [-0.25, 8, -4],
+      "rotate": [0, 180, 0]
+    },
+    {
+      "model": "pet_head.jpm",
+      "part": "head",
+      "attach": true,
+      "translate": [6, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "pet_leg.jpm",
+      "part": "left_leg",
+      "attach": true,
+      "translate": [6, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "pet_leg.jpm",
+      "part": "right_leg",
+      "attach": true,
+      "translate": [6, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "frankenstein_head.jpm",
+      "part": "head",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "frankenstein_body.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "frankenstein_left_arm.jpm",
+      "part": "left_arm",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "frankenstein_right_arm.jpm",
+      "part": "right_arm",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "frankenstein_left_leg.jpm",
+      "part": "left_leg",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "frankenstein_right_leg.jpm",
+      "part": "right_leg",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "player_head.jpm",
+      "part": "head",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "player_body.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "player_left_arm.jpm",
+      "part": "left_arm",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "player_right_arm.jpm",
+      "part": "right_arm",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "player_left_leg.jpm",
+      "part": "left_leg",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "player_right_leg.jpm",
+      "part": "right_leg",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "lego_head.jpm",
+      "part": "head",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "lego_left_leg.jpm",
+      "part": "left_leg",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "lego_right_leg.jpm",
+      "part": "right_leg",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "timon_head.jpm",
+      "part": "head",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "timon_body.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "timon_left_arm.jpm",
+      "part": "left_arm",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "timon_right_arm.jpm",
+      "part": "right_arm",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "timon_left_leg.jpm",
+      "part": "left_leg",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "timon_right_leg.jpm",
+      "part": "right_leg",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "texture": "textures/entity/pig/poo_4_leg",
+	"textureSize": [16, 16],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-8, 1, -2, 4, 5, 4],
+			"uvNorth": [0, 0, 4, 5],
+			"uvEast": [4, 0, 8, 5],
+			"uvSouth": [0, 5, 4, 10],
+			"uvWest": [4, 5, 8, 10],
+			"uvUp": [12, 4, 8, 0],
+			"uvDown": [12, 4, 8, 8]
+		}
+	]
+}

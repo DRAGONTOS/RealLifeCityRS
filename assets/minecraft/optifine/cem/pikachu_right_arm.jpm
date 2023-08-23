@@ -1,0 +1,16 @@
+{
+  "texture": "textures/entity/rabbit/pikachu_right_arm",
+	"textureSize": [16, 16],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-1, 1, 1, 2, 5, 2],
+			"uvNorth": [2, 0, 0, 5],
+			"uvEast": [2, 5, 0, 10],
+			"uvSouth": [6, 4, 4, 9],
+			"uvWest": [4, 2, 2, 7],
+			"uvUp": [2, 2, 4, 0],
+			"uvDown": [4, 0, 6, 2]
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+  "texture": "textures/entity/cow/pumba_4_leg",
+	"textureSize": [64, 64],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-1.5, 6, -3, 3, 6, 3],
+			"uvNorth": [17, 42, 20, 48],
+			"uvEast": [20, 42, 23, 48],
+			"uvSouth": [23, 42, 26, 48],
+			"uvWest": [38, 42, 41, 48],
+			"uvUp": [50, 3, 47, 0],
+			"uvDown": [50, 3, 47, 6]
+		}
+	]
+}

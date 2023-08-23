@@ -1,0 +1,16 @@
+{
+	"texture": "textures/entity/zombie/frankenstein_left_arm",
+	"textureSize": [16, 16],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-3, -1, 7, 3, 10, 3],
+			"uvNorth": [0, 0, 3, 10],
+			"uvEast": [3, 0, 6, 10],
+			"uvSouth": [6, 0, 9, 10],
+			"uvWest": [9, 0, 12, 10],
+			"uvUp": [3, 13, 0, 10],
+			"uvDown": [6, 10, 3, 13]
+		}
+	]
+}

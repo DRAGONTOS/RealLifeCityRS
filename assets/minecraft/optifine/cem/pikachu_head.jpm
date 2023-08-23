@@ -1,0 +1,16 @@
+{
+  "texture": "textures/entity/rabbit/pikachu_head",
+	"textureSize": [32, 32],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-3.5, -4.5, -5, 7, 7, 6],
+			"uvNorth": [0, 0, 7, 7],
+			"uvEast": [7, 7, 13, 14],
+			"uvSouth": [0, 7, 7, 14],
+			"uvWest": [7, 0, 13, 7],
+			"uvUp": [20, 19, 13, 13],
+			"uvDown": [20, 0, 13, 6]
+		}
+	]
+}

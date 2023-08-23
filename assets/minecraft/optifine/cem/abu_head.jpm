@@ -1,0 +1,42 @@
+{
+  "texture": "textures/entity/pig/abu_head",
+	"textureSize": [16, 16],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-1.5, 3, 2, 3, 3, 3],
+			"uvNorth": [0, 0, 3, 3],
+			"uvEast": [0, 3, 3, 6],
+			"uvSouth": [3, 3, 6, 6],
+			"uvWest": [3, 0, 6, 3],
+			"uvUp": [3, 9, 0, 6],
+			"uvDown": [6, 6, 3, 9]
+		},
+		{
+			"coordinates": [-0.5, 2, 3, 1.5, 1, 1.5],
+			"uvNorth": [6, 2, 8, 3],
+			"uvEast": [6, 3, 8, 4],
+			"uvSouth": [6, 4, 8, 5],
+			"uvWest": [6, 5, 8, 6],
+			"uvUp": [8, 8, 6, 6],
+			"uvDown": [8, 0, 6, 2]
+		}
+	],
+	"submodels": [
+		{
+			"id": "head",
+			"rotate": [-22.5, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-0.5, 2.93015, 3.37849, 1, 1, 1],
+					"uvNorth": [6, 8, 7, 9],
+					"uvEast": [7, 8, 8, 9],
+					"uvSouth": [8, 8, 9, 9],
+					"uvWest": [8, 0, 9, 1],
+					"uvUp": [9, 2, 8, 1],
+					"uvDown": [9, 2, 8, 3]
+				}
+			]
+		}
+	]
+}

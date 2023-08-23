@@ -1,0 +1,37 @@
+{
+  "texture": "textures/entity/pig/momo_body",
+	"textureSize": [32, 32],
+	"credit": "Made with Blockbench",
+	"submodels": [
+		{
+			"id": "cube",
+			"rotate": [-25, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-1.5, -3.07309, -8.93466, 3, 7, 3],
+					"uvNorth": [0, 0, 3, 7],
+					"uvEast": [3, 3, 6, 10],
+					"uvSouth": [6, 6, 9, 13],
+					"uvWest": [0, 7, 3, 14],
+					"uvUp": [6, 3, 3, 0],
+					"uvDown": [6, 10, 3, 13]
+				}
+			]
+		},
+		{
+			"id": "cube",
+			"rotate": [-25, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-2, -2.57309, -9.43466, 4, 3.5, 4],
+					"uvNorth": [6, 0, 10, 4],
+					"uvEast": [9, 9, 13, 13],
+					"uvSouth": [9, 4, 13, 8],
+					"uvWest": [10, 0, 14, 4],
+					"uvUp": [7, 17, 3, 13],
+					"uvDown": [11, 13, 7, 17]
+				}
+			]
+		}
+	]
+}

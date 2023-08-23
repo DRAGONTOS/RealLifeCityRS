@@ -1,8 +1,8 @@
 {
 	"__comment": "Designed by Nathankuijt with BDcraft Cubik PRO 0.95 Beta - http://bdcraft.net",
 	"textures": {
-		"particle": "blocks/hay_block_top",
-		"Haybale": "blocks/hay_block_top"
+		"particle": "block/hay_block_top",
+		"Haybale": "block/hay_block_top"
 	},
 	"elements": [
 		{

@@ -1,0 +1,112 @@
+{
+  "texture": "textures/entity/pig/penguin_body",
+	"textureSize": [64, 64],
+	"credit": "Made with Blockbench",
+	"submodels": [
+		{
+			"id": "body_sub_1",
+			"rotate": [0, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-4, -6, -10, 8, 7, 5],
+					"uvNorth": [0, 0, 8, 7],
+					"uvEast": [9, 19, 14, 26],
+					"uvSouth": [0, 7, 8, 14],
+					"uvWest": [14, 22, 19, 29],
+					"uvUp": [8, 19, 0, 14],
+					"uvDown": [16, 14, 8, 19]
+				}
+			]
+		},
+		{
+			"id": "body_sub_2",
+			"rotate": [0, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-3.5, -5.5, -5, 7, 6, 5],
+					"uvNorth": [8, 8, 15, 14],
+					"uvEast": [0, 23, 5, 29],
+					"uvSouth": [8, 0, 15, 6],
+					"uvWest": [24, 0, 29, 6],
+					"uvUp": [26, 27, 19, 22],
+					"uvDown": [29, 12, 22, 17]
+				}
+			]
+		},
+		{
+			"id": "body_sub_3",
+			"rotate": [0, -10, 0],
+			"boxes": [
+				{
+					"coordinates": [2.94682, -4.5, -9.60777, 0.5, 4, 9],
+					"uvNorth": [24, 27, 25, 31],
+					"uvEast": [15, 0, 24, 4],
+					"uvSouth": [25, 27, 26, 31],
+					"uvWest": [15, 4, 24, 8],
+					"uvUp": [12, 35, 11, 26],
+					"uvDown": [13, 26, 12, 35]
+				}
+			]
+		},
+		{
+			"id": "body_sub_2",
+			"rotate": [15, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-3, -1.88884, -10.87032, 6, 1, 4],
+					"uvNorth": [8, 6, 14, 7],
+					"uvEast": [5, 23, 9, 24],
+					"uvSouth": [8, 7, 14, 8],
+					"uvWest": [5, 24, 9, 25],
+					"uvUp": [32, 30, 26, 26],
+					"uvDown": [32, 22, 26, 26]
+				}
+			]
+		},
+		{
+			"id": "body_sub_2",
+			"rotate": [0, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-3, -5, -11, 6, 5, 1],
+					"uvNorth": [22, 17, 28, 22],
+					"uvEast": [22, 27, 23, 32],
+					"uvSouth": [5, 26, 11, 31],
+					"uvWest": [23, 27, 24, 32],
+					"uvUp": [22, 15, 16, 14],
+					"uvDown": [22, 15, 16, 16]
+				}
+			]
+		},
+		{
+			"id": "body_sub_3",
+			"rotate": [0, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-3, -5.5, 0, 6, 5.5, 1],
+					"uvNorth": [15, 8, 21, 14],
+					"uvEast": [20, 27, 21, 33],
+					"uvSouth": [16, 16, 22, 22],
+					"uvWest": [21, 27, 22, 33],
+					"uvUp": [30, 7, 24, 6],
+					"uvDown": [30, 7, 24, 8]
+				}
+			]
+		},
+		{
+			"id": "body_sub_4",
+			"rotate": [0, 10, 0],
+			"boxes": [
+				{
+					"coordinates": [-3.44682, -4.5, -9.60777, 0.5, 4, 9],
+					"uvNorth": [28, 17, 29, 21],
+					"uvEast": [0, 19, 9, 23],
+					"uvSouth": [0, 29, 1, 33],
+					"uvWest": [21, 8, 30, 12],
+					"uvUp": [14, 35, 13, 26],
+					"uvDown": [20, 27, 19, 36]
+				}
+			]
+		}
+	]
+}

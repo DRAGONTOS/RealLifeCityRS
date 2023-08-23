@@ -1,0 +1,25 @@
+{
+	"texture": "textures/entity/zombie/frankenstein_left_leg",
+	"textureSize": [16, 16],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-1, 6, 0, 2, 4, 2],
+			"uvNorth": [0, 0, 2, 4],
+			"uvEast": [2, 0, 4, 4],
+			"uvSouth": [0, 4, 2, 8],
+			"uvWest": [4, 0, 6, 4],
+			"uvUp": [6, 8, 4, 6],
+			"uvDown": [8, 6, 6, 8]
+		},
+		{
+			"coordinates": [-1, 10, -2, 2, 2, 4],
+			"uvNorth": [0, 8, 2, 10],
+			"uvEast": [2, 4, 6, 6],
+			"uvSouth": [8, 2, 10, 4],
+			"uvWest": [6, 0, 10, 2],
+			"uvUp": [4, 10, 2, 6],
+			"uvDown": [8, 2, 6, 6]
+		}
+	]
+}

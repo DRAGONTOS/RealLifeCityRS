@@ -1,0 +1,485 @@
+{
+	"comment": "Model by sixfootblue",
+	"textureSize": [64, 64],
+	"models":
+  [
+  {
+      "model": "momo_head.jpm",
+      "part": "head",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+  {
+      "model": "momo_body.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+  {
+      "model": "momo_left_wing.jpm",
+      "part": "leg4",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+  {
+      "model": "momo_right_wing.jpm",
+      "part": "leg3",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+  {
+      "model": "momo_left_leg.jpm",
+      "part": "leg2",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+  {
+      "model": "momo_right_leg.jpm",
+      "part": "leg1",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+  {
+      "model": "momo_tail.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+{
+			"model": "red_panda_ears.jpm",
+			"part": "head",
+			"attach": true,
+			"translate": [-0.25, 8, -4],
+			"rotate": [0, 180, 0]
+		},
+		{
+			"model": "red_panda_tail.jpm",
+			"part": "body",
+			"attach": true,
+			"translate": [0, 6, 0],
+			"rotate": [0, 0, 0],
+			"animations": [{
+				"this.rx": "-0.2 + (sin(time / 18) / 8)"
+			}]
+		},
+		{
+			"model": "abu_head.jpm",
+			"part": "head",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "abu_body.jpm",
+			"part": "body",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "abu_1_leg.jpm",
+			"part": "leg1",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "abu_2_leg.jpm",
+			"part": "leg2",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "abu_3_leg.jpm",
+			"part": "leg3",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "abu_4_leg.jpm",
+			"part": "leg4",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "abu_tail.jpm",
+			"part": "body",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "penguin_head.jpm",
+			"part": "body",
+			"attach": true,
+			"translate": [0, -3.5, 0.80],
+			"rotate": [0, 0, 0],
+			"animations": [
+				{
+					"this.rx": "head.rx + 4.75",
+					"this.ry": "-head.rz",
+					"this.rz": "-head.ry"
+				}
+			]
+		},
+		{
+			"model": "penguin_body.jpm",
+			"part": "body",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "penguin_left_leg.jpm",
+			"part": "leg1",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "penguin_right_leg.jpm",
+			"part": "leg2",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "perry_body.jpm",
+			"part": "body",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [-90, 0, 0]
+		},
+		{
+			"model": "perry_tail.jpm",
+			"part": "body",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [-90, 0, 0]
+		},
+		{
+			"model": "perry_1_leg.jpm",
+			"part": "leg1",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "perry_2_leg.jpm",
+			"part": "leg2",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "perry_3_leg.jpm",
+			"part": "leg3",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "perry_4_leg.jpm",
+			"part": "leg4",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "toothless_head.jpm",
+			"part": "body",
+			"attach": true,
+			"translate": [0, -16, 3],
+			"rotate": [0, 0, 0]	,
+			"animations": [
+				{
+					"this.rx": "head.rx + 4.75",
+					"this.ry": "-head.rz",
+					"this.rz": "-head.ry"
+				}
+			]
+		},
+		{
+			"model": "toothless_body.jpm",
+			"part": "body",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [-90, 0, 0]
+		},
+		{
+			"model": "toothless_left_wing.jpm",
+			"part": "body",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [-90, 0, 0]
+		},
+		{
+			"model": "toothless_right_wing.jpm",
+			"part": "body",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [-90, 0, 0]
+		},
+		{
+			"model": "toothless_1_leg.jpm",
+			"part": "leg1",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "toothless_2_leg.jpm",
+			"part": "leg2",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "toothless_3_leg.jpm",
+			"part": "leg3",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "toothless_4_leg.jpm",
+			"part": "leg4",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "calimero_head.jpm",
+			"part": "head",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "calimero_body.jpm",
+			"part": "body",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [-90, 0, 0]
+		},
+		{
+			"model": "calimero_3_leg.jpm",
+			"part": "leg3",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "calimero_4_leg.jpm",
+			"part": "leg4",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "drone_propeller.jpm",
+			"part": "body",
+			"attach": true,
+			"translate": [6, 0, 0],
+			"rotate": [0, 0, 0],
+			"animations": [{
+				"this.rz": "if(is_in_water,abs(0)/2,limb_speed>=torad(40),(abs(time / 0.5)),(abs(time / 1.25)))",
+				"this.ry": "(sin(time / 10) / 35)"
+			}]
+		},
+		{
+			"model": "drone_propeller.jpm",
+			"part": "body",
+			"attach": true,
+			"translate": [-6, 0, 0],
+			"rotate": [0, 0, 0],
+			"animations": [{
+				"this.rz": "if(is_in_water,abs(0)/2,limb_speed>=torad(40),(abs(time / 0.5)),(abs(time / 1.25)))",
+				"this.ry": "(sin(time / 10) / 35)"
+			}]
+		},
+		{
+			"model": "drone_propeller.jpm",
+			"part": "body",
+			"attach": true,
+			"translate": [6, -12, 0],
+			"rotate": [0, 0, 0],
+			"animations": [{
+				"this.rz": "if(is_in_water,abs(0)/2,limb_speed>=torad(40),(abs(time / 0.5)),(abs(time / 1.25)))",
+				"this.ry": "(sin(time / 10) / 35)"
+			}]
+		},
+		{
+			"model": "drone_propeller.jpm",
+			"part": "body",
+			"attach": true,
+			"translate": [-6, -12, 0],
+			"rotate": [0, 0, 0],
+			"animations": [{
+				# "this.rz": "abs(time / 1), if(is_in_water, abs(0))",
+				"this.rz": "if(is_in_water,abs(0)/2,limb_speed>=torad(40),(abs(time / 0.5)),(abs(time / 1.25)))",
+				"this.ry": "(sin(time / 10) / 35)"
+			}]
+		},
+		{
+			"model": "drone_body.jpm",
+			"part": "body",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [-90, 0, 0],
+			"animations": [{
+				"this.ry": "(sin(time / 10) / 35)"
+			}]
+		},
+		{
+			"model": "poo_head.jpm",
+			"part": "head",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "poo_body.jpm",
+			"part": "body",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [-90, 0, 0]
+		},
+		{
+			"model": "poo_1_leg.jpm",
+			"part": "leg1",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "poo_2_leg.jpm",
+			"part": "leg2",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "poo_3_leg.jpm",
+			"part": "leg3",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "poo_4_leg.jpm",
+			"part": "leg4",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "stitch_head.jpm",
+			"part": "head",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "stitch_body.jpm",
+			"part": "body",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [-90, 0, 0]
+		},
+		{
+			"model": "stitch_1_leg.jpm",
+			"part": "leg1",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "stitch_2_leg.jpm",
+			"part": "leg2",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "stitch_3_leg.jpm",
+			"part": "leg3",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "stitch_4_leg.jpm",
+			"part": "leg4",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "dart_head.jpm",
+			"part": "head",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "dart_body.jpm",
+			"part": "body",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [-90, 0, 0]
+		},
+		{
+			"model": "dart_1_leg.jpm",
+			"part": "leg1",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "dart_2_leg.jpm",
+			"part": "leg2",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "dart_3_leg.jpm",
+			"part": "leg3",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "dart_4_leg.jpm",
+			"part": "leg4",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"model": "dart_left_wing.jpm",
+			"part": "body",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [-90, 0, 0]
+		},
+		{
+			"model": "dart_right_wing.jpm",
+			"part": "body",
+			"attach": true,
+			"translate": [0, 0, 0],
+			"rotate": [-90, 0, 0]
+		}
+	]
+}

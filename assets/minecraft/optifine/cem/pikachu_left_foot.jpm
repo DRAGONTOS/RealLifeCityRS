@@ -1,0 +1,16 @@
+{
+  "texture": "textures/entity/rabbit/pikachu_left_foot",
+	"textureSize": [8, 8],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-1, 5, -0.5, 2, 1, 4],
+			"uvNorth": [0, 4, 2, 5],
+			"uvEast": [2, 0, 6, 1],
+			"uvSouth": [4, 4, 6, 5],
+			"uvWest": [2, 1, 6, 2],
+			"uvUp": [2, 4, 0, 0],
+			"uvDown": [4, 2, 2, 6]
+		}
+	]
+}

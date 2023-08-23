@@ -1,0 +1,22 @@
+{
+  "texture": "textures/entity/pig/perry_tail",
+	"textureSize": [32, 32],
+	"credit": "Made with Blockbench",
+	"submodels": [
+		{
+			"id": "body_sub_2",
+			"rotate": [90, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-3.5, 8, -9, 7, 10, 1],
+					"uvNorth": [0, 0, 7, 10],
+					"uvEast": [0, 10, 1, 20],
+					"uvSouth": [7, 7, 14, 17],
+					"uvWest": [1, 10, 2, 20],
+					"uvUp": [14, 1, 7, 0],
+					"uvDown": [14, 1, 7, 2]
+				}
+			]
+		}
+	]
+}

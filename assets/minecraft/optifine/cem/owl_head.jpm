@@ -1,0 +1,26 @@
+{
+	"comment": "model by luccah",
+	"texture": "textures/entity/parrot/owl_head",
+	"textureSize": [16,16],
+	
+		"boxes": [
+		{
+			"coordinates": [-1.75, -9.5, -5, 3, 3, 3],
+			"uvNorth": [0, 0, 3, 3],
+			"uvEast": [0, 3, 3, 6],
+			"uvSouth": [3, 3, 6, 6],
+			"uvWest": [3, 0, 6, 3],
+			"uvUp": [3, 9, 0, 6],
+			"uvDown": [6, 6, 3, 9]
+		},
+		{
+			"coordinates": [-0.5, -8, -2, 0.5, 1.5, 0.5],
+			"uvNorth": [6, 6, 7, 8],
+			"uvEast": [6, 0, 7, 2],
+			"uvSouth": [6, 2, 7, 4],
+			"uvWest": [6, 4, 7, 6],
+			"uvUp": [8, 8, 7, 7],
+			"uvDown": [8, 0, 7, 1]
+		}
+	]
+}

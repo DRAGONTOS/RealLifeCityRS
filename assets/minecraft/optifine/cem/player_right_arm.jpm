@@ -1,0 +1,22 @@
+{
+  "texture": "textures/entity/zombie/player_right_arm",
+	"textureSize": [32, 32],
+	"credit": "Made with Blockbench",
+	"submodels": [
+		{
+			"id": "cube",
+			"rotate": [90, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [2, 10, -3, 2, 6, 2],
+					"uvNorth": [22, 10, 24, 16],
+					"uvEast": [20, 10, 22, 16],
+					"uvSouth": [26, 10, 28, 16],
+					"uvWest": [24, 10, 26, 16],
+					"uvUp": [24, 10, 22, 8],
+					"uvDown": [26, 8, 24, 10]
+				}
+			]
+		}
+	]
+}

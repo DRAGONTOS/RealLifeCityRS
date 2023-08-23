@@ -1,0 +1,83 @@
+{
+  "textureSize": [64,64],
+  "models":
+  [
+	{
+      "model": "pikachu_body.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "pikachu_head.jpm",
+      "part": "head",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "pikachu_tail.jpm",
+      "part": "tail",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "pikachu_left_arm.jpm",
+      "part": "left_arm",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "pikachu_right_arm.jpm",
+      "part": "right_arm",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "pikachu_left_ear.jpm",
+      "part": "left_ear",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "pikachu_right_ear.jpm",
+      "part": "right_ear",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "pikachu_left_foot.jpm",
+      "part": "left_foot",
+      "attach": true,
+      "translate": [0.6, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "pikachu_right_foot.jpm",
+      "part": "right_foot",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "pikachu_left_thigh.jpm",
+      "part": "left_thigh",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "pikachu_right_thigh.jpm",
+      "part": "right_thigh",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

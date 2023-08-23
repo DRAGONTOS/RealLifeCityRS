@@ -1,0 +1,63 @@
+{
+  "texture": "textures/entity/pig/toothless_right_wing",
+	"textureSize": [64, 64],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-13.64137, 1, -16.77349, 9, 0, 25],
+			"uvNorth": [9, 0, 0, 0],
+			"uvEast": [25, 0, 0, 0],
+			"uvSouth": [9, 0, 0, 0],
+			"uvWest": [25, 0, 0, 0],
+			"uvUp": [0, 25, 9, 0],
+			"uvDown": [9, 9, 18, 34]
+		}
+	],
+	"submodels": [
+		{
+			"id": "leg4",
+			"rotate": [0, 12.5, 0],
+			"boxes": [
+				{
+					"coordinates": [-4.01572, -0.5, -20.98738, 3, 3, 16],
+					"uvNorth": [21, 14, 18, 17],
+					"uvEast": [25, 3, 9, 6],
+					"uvSouth": [24, 14, 21, 17],
+					"uvWest": [25, 0, 9, 3],
+					"uvUp": [18, 34, 21, 18],
+					"uvDown": [21, 21, 24, 37]
+				}
+			]
+		},
+		{
+			"id": "leg5",
+			"rotate": [0, -25, 0],
+			"boxes": [
+				{
+					"coordinates": [-15.96219, 0, -14.20579, 2, 2, 16],
+					"uvNorth": [23, 17, 21, 19],
+					"uvEast": [34, 8, 18, 10],
+					"uvSouth": [23, 19, 21, 21],
+					"uvWest": [25, 6, 9, 8],
+					"uvUp": [24, 40, 26, 24],
+					"uvDown": [0, 25, 2, 41]
+				}
+			]
+		},
+		{
+			"id": "leg6",
+			"rotate": [0, 15, 0],
+			"boxes": [
+				{
+					"coordinates": [-13.38104, 0.25, -8.88586, 1.5, 1.5, 11],
+					"uvNorth": [25, 17, 23, 19],
+					"uvEast": [29, 12, 18, 14],
+					"uvSouth": [25, 19, 23, 21],
+					"uvWest": [29, 10, 18, 12],
+					"uvUp": [2, 36, 4, 25],
+					"uvDown": [4, 25, 6, 36]
+				}
+			]
+		}
+	]
+}

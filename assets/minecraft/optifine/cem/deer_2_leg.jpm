@@ -1,0 +1,57 @@
+{
+  "texture": "textures/entity/cow/deer_2_leg",
+	"textureSize": [32, 32],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-10, -0.8013, -3.13365, 4, 4, 4],
+			"uvNorth": [0, 0, 4, 4],
+			"uvEast": [0, 4, 4, 8],
+			"uvSouth": [4, 4, 8, 8],
+			"uvWest": [4, 0, 8, 4],
+			"uvUp": [4, 12, 0, 8],
+			"uvDown": [8, 8, 4, 12]
+		},
+		{
+			"coordinates": [-9, 10.61621, -2, 2, 2, 2],
+			"uvNorth": [9, 13, 11, 15],
+			"uvEast": [13, 5, 15, 7],
+			"uvSouth": [13, 7, 15, 9],
+			"uvWest": [13, 9, 15, 11],
+			"uvUp": [16, 16, 14, 14],
+			"uvDown": [16, 0, 14, 2]
+		}
+	],
+	"submodels": [
+		{
+			"id": "leg4",
+			"rotate": [35, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-9.5, 0.62067, -4.01327, 3, 5, 3],
+					"uvNorth": [8, 8, 11, 13],
+					"uvEast": [8, 0, 11, 5],
+					"uvSouth": [11, 11, 14, 16],
+					"uvWest": [11, 0, 14, 5],
+					"uvUp": [11, 8, 8, 5],
+					"uvDown": [9, 13, 6, 16]
+				}
+			]
+		},
+		{
+			"id": "leg5",
+			"rotate": [-20, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-9, 4.16002, 1.75157, 2, 6.5, 2],
+					"uvNorth": [11, 5, 13, 11],
+					"uvEast": [0, 12, 2, 18],
+					"uvSouth": [2, 12, 4, 18],
+					"uvWest": [4, 12, 6, 18],
+					"uvUp": [16, 4, 14, 2],
+					"uvDown": [16, 11, 14, 13]
+				}
+			]
+		}
+	]
+}

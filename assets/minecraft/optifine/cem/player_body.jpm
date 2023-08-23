@@ -1,0 +1,16 @@
+{
+  "texture": "textures/entity/zombie/player_body",
+	"textureSize": [32, 32],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-2, 12, -1, 4, 6, 2],
+			"uvNorth": [10, 10, 14, 16],
+			"uvEast": [8, 10, 10, 16],
+			"uvSouth": [16, 10, 20, 16],
+			"uvWest": [14, 10, 16, 16],
+			"uvUp": [14, 10, 10, 8],
+			"uvDown": [18, 8, 14, 10]
+		}
+	]
+}

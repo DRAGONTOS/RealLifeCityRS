@@ -1,0 +1,82 @@
+{
+  "texture": "textures/entity/cow/bear_body",
+	"textureSize": [64, 64],
+	"credit": "Made with Blockbench",
+	"submodels": [
+		{
+			"id": "body_sub_1",
+			"rotate": [80, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-5, -7.95014, -13.00019, 10, 8.8, 10.4],
+					"uvNorth": [21, 0, 31, 9],
+					"uvEast": [21, 9, 31, 18],
+					"uvSouth": [22, 22, 32, 31],
+					"uvWest": [0, 29, 10, 38],
+					"uvUp": [21, 21, 11, 11],
+					"uvDown": [21, 0, 11, 10]
+				}
+			]
+		},
+		{
+			"id": "body_sub_2",
+			"rotate": [90, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-5.5, -2.6, -13, 11, 8.8, 10.4],
+					"uvNorth": [0, 20, 11, 29],
+					"uvEast": [10, 30, 20, 39],
+					"uvSouth": [11, 21, 22, 30],
+					"uvWest": [20, 31, 30, 40],
+					"uvUp": [11, 10, 0, 0],
+					"uvDown": [11, 10, 0, 20]
+				}
+			]
+		},
+		{
+			"id": "body_sub_3",
+			"rotate": [75, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-2, 13.57737, -8.76432, 4, 1, 2.4],
+					"uvNorth": [11, 10, 15, 11],
+					"uvEast": [19, 10, 21, 11],
+					"uvSouth": [15, 10, 19, 11],
+					"uvWest": [29, 18, 31, 19],
+					"uvUp": [30, 42, 26, 40],
+					"uvDown": [34, 40, 30, 42]
+				}
+			]
+		},
+		{
+			"id": "body_sub_4",
+			"rotate": [75, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-4, 11.77737, -9.76432, 8, 1.8, 7.4],
+					"uvNorth": [21, 18, 29, 20],
+					"uvEast": [32, 28, 39, 30],
+					"uvSouth": [22, 20, 30, 22],
+					"uvWest": [39, 28, 46, 30],
+					"uvUp": [40, 28, 32, 21],
+					"uvDown": [8, 38, 0, 45]
+				}
+			]
+		},
+		{
+			"id": "body_sub_4",
+			"rotate": [75, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-5, 5.97737, -10.76432, 10, 5.8, 9.4],
+					"uvNorth": [31, 9, 41, 15],
+					"uvEast": [8, 39, 17, 45],
+					"uvSouth": [31, 15, 41, 21],
+					"uvWest": [17, 40, 26, 46],
+					"uvUp": [40, 40, 30, 31],
+					"uvDown": [41, 0, 31, 9]
+				}
+			]
+		}
+	]
+}

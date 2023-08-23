@@ -1,0 +1,48 @@
+{
+  "texture": "textures/entity/cow/bear_1_leg",
+	"textureSize": [32, 32],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [7, 10.64618, -0.2859, 3, 1.8, 5.2],
+			"uvNorth": [17, 4, 20, 6],
+			"uvEast": [3, 17, 8, 19],
+			"uvSouth": [17, 6, 20, 8],
+			"uvWest": [17, 17, 22, 19],
+			"uvUp": [16, 5, 13, 0],
+			"uvDown": [17, 14, 14, 19]
+		}
+	],
+	"submodels": [
+		{
+			"id": "leg3",
+			"rotate": [-7.5, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [6.4, -0.07922, -0.04825, 4.2, 7.8, 5.2],
+					"uvNorth": [0, 8, 4, 16],
+					"uvEast": [0, 0, 5, 8],
+					"uvSouth": [10, 10, 14, 18],
+					"uvWest": [5, 5, 10, 13],
+					"uvUp": [9, 5, 5, 0],
+					"uvDown": [13, 0, 9, 5]
+				}
+			]
+		},
+		{
+			"id": "leg4",
+			"rotate": [10, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [6.9, 7.53776, -1.20924, 3.2, 3.8, 4.2],
+					"uvNorth": [14, 5, 17, 9],
+					"uvEast": [10, 5, 14, 9],
+					"uvSouth": [14, 9, 17, 13],
+					"uvWest": [4, 13, 8, 17],
+					"uvUp": [3, 20, 0, 16],
+					"uvDown": [19, 0, 16, 4]
+				}
+			]
+		}
+	]
+}

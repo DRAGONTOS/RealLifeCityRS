@@ -1,0 +1,25 @@
+{
+  "texture": "textures/entity/pig/perry_4_leg",
+	"textureSize": [8, 8],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-7, 3, 1, 2, 3, 2],
+			"uvNorth": [0, 0, 2, 3],
+			"uvEast": [2, 2, 4, 5],
+			"uvSouth": [0, 3, 2, 6],
+			"uvWest": [4, 4, 6, 7],
+			"uvUp": [4, 2, 2, 0],
+			"uvDown": [6, 0, 4, 2]
+		},
+		{
+			"coordinates": [-7, 5, 0, 2, 1, 1],
+			"uvNorth": [4, 2, 6, 3],
+			"uvEast": [2, 6, 3, 7],
+			"uvSouth": [4, 3, 6, 4],
+			"uvWest": [3, 6, 4, 7],
+			"uvUp": [4, 6, 2, 5],
+			"uvDown": [2, 6, 0, 7]
+		}
+	]
+}

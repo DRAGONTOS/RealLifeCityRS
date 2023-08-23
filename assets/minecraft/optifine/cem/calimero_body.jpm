@@ -1,0 +1,82 @@
+{
+  "texture": "textures/entity/pig/calimero_body",
+	"textureSize": [32, 32],
+	"credit": "Made with Blockbench",
+	"submodels": [
+		{
+			"id": "body_sub_1",
+			"rotate": [90, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-2, -4, -11, 4, 4, 4],
+					"uvNorth": [8, 8, 12, 12],
+					"uvEast": [8, 0, 12, 4],
+					"uvSouth": [8, 4, 12, 8],
+					"uvWest": [0, 12, 4, 16],
+					"uvUp": [8, 16, 4, 12],
+					"uvDown": [12, 12, 8, 16]
+				}
+			]
+		},
+		{
+			"id": "body_sub_2",
+			"rotate": [97.5, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [2, -3.73106, -11.41089, 1, 1, 5],
+					"uvNorth": [15, 13, 16, 14],
+					"uvEast": [12, 11, 17, 12],
+					"uvSouth": [15, 14, 16, 15],
+					"uvWest": [12, 15, 17, 16],
+					"uvUp": [16, 5, 15, 0],
+					"uvDown": [16, 5, 15, 10]
+				}
+			]
+		},
+		{
+			"id": "body_sub_3",
+			"rotate": [97.5, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-3, -3.73106, -11.41089, 1, 1, 5],
+					"uvNorth": [2, 16, 3, 17],
+					"uvEast": [15, 10, 20, 11],
+					"uvSouth": [3, 16, 4, 17],
+					"uvWest": [15, 12, 20, 13],
+					"uvUp": [1, 21, 0, 16],
+					"uvDown": [2, 16, 1, 21]
+				}
+			]
+		},
+		{
+			"id": "body_sub_2",
+			"rotate": [90, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-1.5, 0, -10, 3, 2, 3],
+					"uvNorth": [12, 3, 15, 5],
+					"uvEast": [12, 5, 15, 7],
+					"uvSouth": [12, 7, 15, 9],
+					"uvWest": [12, 9, 15, 11],
+					"uvUp": [15, 15, 12, 12],
+					"uvDown": [15, 0, 12, 3]
+				}
+			]
+		},
+		{
+			"id": "body_sub_3",
+			"rotate": [75, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-4, 3.74358, -8.24384, 8, 0, 6],
+					"uvNorth": [0, 0, 8, 0],
+					"uvEast": [0, 0, 6, 0],
+					"uvSouth": [0, 0, 8, 0],
+					"uvWest": [0, 0, 6, 0],
+					"uvUp": [8, 6, 0, 0],
+					"uvDown": [8, 6, 0, 12]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,57 @@
+{
+  "texture": "textures/entity/zombie/bunny_headwear",
+	"textureSize": [32, 32],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-1, -10, 2, 2, 2, 1],
+			"uvNorth": [18, 4, 20, 6],
+			"uvEast": [18, 4, 19, 6],
+			"uvSouth": [18, 4, 20, 6],
+			"uvWest": [18, 4, 19, 6],
+			"uvUp": [18, 5, 20, 6],
+			"uvDown": [18, 4, 20, 6]
+		},
+		{
+			"coordinates": [-4, -12, 2.25, 8, 4, 0.5],
+			"uvNorth": [26, 0, 32, 4],
+			"uvEast": [30, 0, 30, 4],
+			"uvSouth": [18, 0, 24, 4],
+			"uvWest": [30, 0, 30, 4],
+			"uvUp": [30, 0, 30, 4],
+			"uvDown": [30, 0, 30, 4]
+		}
+	],
+	"submodels": [
+		{
+			"id": "cube",
+			"rotate": [0, 0, 20],
+			"boxes": [
+				{
+					"coordinates": [-3.43936, -26.80661, -9, 4, 11, 2],
+					"uvNorth": [3, 0, 6, 6],
+					"uvEast": [5, 0, 6, 6],
+					"uvSouth": [0, 0, 3, 6],
+					"uvWest": [5, 0, 6, 6],
+					"uvUp": [4, 0, 6, 1],
+					"uvDown": [4, 0, 6, 1]
+				}
+			]
+		},
+		{
+			"id": "cube",
+			"rotate": [0, 0, -20],
+			"boxes": [
+				{
+					"coordinates": [-0.56064, -26.8066, -8, 4, 11, 2],
+					"uvNorth": [3, 0, 6, 6],
+					"uvEast": [5, 0, 6, 6],
+					"uvSouth": [0, 0, 3, 6],
+					"uvWest": [5, 0, 6, 6],
+					"uvUp": [4, 0, 6, 1],
+					"uvDown": [4, 0, 6, 1]
+				}
+			]
+		}
+	]
+}

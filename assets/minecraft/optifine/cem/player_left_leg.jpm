@@ -1,0 +1,16 @@
+{
+  "texture": "textures/entity/zombie/player_left_leg",
+	"textureSize": [32, 32],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-4, 6, -1, 2, 6, 2],
+			"uvNorth": [2, 10, 4, 16],
+			"uvEast": [0, 10, 2, 16],
+			"uvSouth": [6, 10, 8, 16],
+			"uvWest": [4, 10, 6, 16],
+			"uvUp": [4, 10, 2, 8],
+			"uvDown": [6, 8, 4, 10]
+		}
+	]
+}

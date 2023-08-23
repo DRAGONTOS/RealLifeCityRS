@@ -1,0 +1,37 @@
+{
+  "texture": "textures/entity/zombie/bunny_left_arm",
+	"textureSize": [32, 32],
+	"credit": "Made with Blockbench",
+	"submodels": [
+		{
+			"id": "cube",
+			"rotate": [-90, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-3.65, 9.94629, -13.78893, 3, 8, 3],
+					"uvNorth": [0, 25, 3, 32],
+					"uvEast": [0, 25, 3, 32],
+					"uvSouth": [0, 25, 3, 32],
+					"uvWest": [0, 25, 3, 32],
+					"uvUp": [0, 29, 3, 32],
+					"uvDown": [0, 29, 3, 32]
+				}
+			]
+		},
+		{
+			"id": "cube",
+			"rotate": [-119.14743, 7.43547, 13.06431],
+			"boxes": [
+				{
+					"coordinates": [-5.25112, 7.53013, -5.80351, 3, 8, 3],
+					"uvNorth": [0, 25, 3, 32],
+					"uvEast": [0, 25, 3, 32],
+					"uvSouth": [0, 25, 3, 32],
+					"uvWest": [0, 25, 3, 32],
+					"uvUp": [0, 29, 3, 32],
+					"uvDown": [0, 29, 3, 32]
+				}
+			]
+		}
+	]
+}

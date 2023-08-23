@@ -1,0 +1,16 @@
+{
+  "texture": "textures/entity/zombie/lego_right_leg",
+	"textureSize": [8, 8],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [2, 11, -1.5, 2, 1, 1],
+			"uvNorth": [0, 0, 2, 1],
+			"uvEast": [2, 1, 3, 2],
+			"uvSouth": [0, 1, 2, 2],
+			"uvWest": [2, 2, 3, 3],
+			"uvUp": [2, 3, 0, 2],
+			"uvDown": [4, 0, 2, 1]
+		}
+	]
+}

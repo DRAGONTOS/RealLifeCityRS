@@ -1,0 +1,48 @@
+{
+  "texture": "textures/entity/zombie/timon_right_leg",
+	"textureSize": [64, 64],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [5, 9.94834, -2.89136, 2, 2, 4],
+			"uvNorth": [10, 35, 12, 37],
+			"uvEast": [33, 0, 37, 2],
+			"uvSouth": [12, 35, 14, 37],
+			"uvWest": [2, 33, 6, 35],
+			"uvUp": [35, 6, 33, 2],
+			"uvDown": [35, 6, 33, 10]
+		}
+	],
+	"submodels": [
+		{
+			"id": "cube",
+			"rotate": [-22.5, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [5, 3.3526, 0.58867, 2, 4, 4],
+					"uvNorth": [6, 32, 8, 36],
+					"uvEast": [24, 0, 28, 4],
+					"uvSouth": [32, 10, 34, 14],
+					"uvWest": [5, 24, 9, 28],
+					"uvUp": [34, 20, 32, 16],
+					"uvDown": [34, 20, 32, 24]
+				}
+			]
+		},
+		{
+			"id": "cube",
+			"rotate": [22.5, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [4.99, 5.61533, -4.78281, 2, 4, 2],
+					"uvNorth": [21, 32, 23, 36],
+					"uvEast": [32, 27, 34, 31],
+					"uvSouth": [32, 31, 34, 35],
+					"uvWest": [0, 33, 2, 37],
+					"uvUp": [37, 8, 35, 6],
+					"uvDown": [37, 8, 35, 10]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+  "texture": "textures/entity/rabbit/pikachu_left_ear",
+	"textureSize": [16, 16],
+	"credit": "Made with Blockbench",
+	"submodels": [
+		{
+			"id": "left_ear",
+			"rotate": [0, 0, 55],
+			"boxes": [
+				{
+					"coordinates": [-2.15703, -8.8808, -2, 2, 5, 1],
+					"uvNorth": [0, 0, 2, 5],
+					"uvEast": [4, 4, 5, 9],
+					"uvSouth": [2, 2, 4, 7],
+					"uvWest": [0, 5, 1, 10],
+					"uvUp": [4, 1, 2, 0],
+					"uvDown": [4, 1, 2, 2]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+    "texture": "textures/entity/pig/penguin_head",
+	"textureSize": [16, 16],
+	"credit": "robinnoob220 ;p",
+	"boxes": [
+		{
+			"coordinates": [-2.5, -4.75, -2, 5, 5, 5],
+			"uvNorth": [0, 0, 5, 5],
+			"uvEast": [0, 5, 5, 10],
+			"uvSouth": [5, 5, 10, 10],
+			"uvWest": [5, 0, 10, 5],
+			"uvUp": [5, 15, 0, 10],
+			"uvDown": [10, 10, 5, 15]
+		},
+		{
+			"coordinates": [-1, -2.25, -3, 2, 2, 1],
+			"uvNorth": [10, 10, 12, 12],
+			"uvEast": [10, 2, 11, 4],
+			"uvSouth": [10, 0, 12, 2],
+			"uvWest": [10, 4, 11, 6],
+			"uvUp": [12, 7, 10, 6],
+			"uvDown": [12, 7, 10, 8]
+		},
+		{
+			"coordinates": [-0.5, -1.75, -4, 1, 1.5, 1],
+			"uvNorth": [10, 8, 11, 10],
+			"uvEast": [11, 2, 12, 4],
+			"uvSouth": [11, 4, 12, 6],
+			"uvWest": [11, 8, 12, 10],
+			"uvUp": [11, 13, 10, 12],
+			"uvDown": [12, 12, 11, 13]
+		},
+		{
+			"coordinates": [-0.5, -1.25, -4.5, 1, 1, 0.5],
+			"uvNorth": [12, 12, 13, 13],
+			"uvEast": [12, 0, 13, 1],
+			"uvSouth": [12, 1, 13, 2],
+			"uvWest": [12, 2, 13, 3],
+			"uvUp": [13, 4, 12, 3],
+			"uvDown": [13, 4, 12, 5]
+		}
+	]
+}

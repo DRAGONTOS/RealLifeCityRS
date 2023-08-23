@@ -1,0 +1,67 @@
+{
+  "texture": "textures/entity/cow/pumba_body",
+	"textureSize": [64, 64],
+	"credit": "Made with Blockbench",
+	"submodels": [
+		{
+			"id": "body",
+			"rotate": [90, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-4.5, -3, -13, 9, 6, 7],
+					"uvNorth": [9, 36, 18, 42],
+					"uvEast": [11, 22, 18, 28],
+					"uvSouth": [18, 36, 27, 42],
+					"uvWest": [0, 37, 7, 43],
+					"uvUp": [9, 37, 0, 30],
+					"uvDown": [39, 0, 30, 7]
+				}
+			]
+		},
+		{
+			"id": "body",
+			"rotate": [90, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-1, 2.5, -17, 2, 2, 2],
+					"uvNorth": [30, 7, 32, 9],
+					"uvEast": [9, 30, 11, 32],
+					"uvSouth": [32, 7, 34, 9],
+					"uvWest": [9, 32, 11, 34],
+					"uvUp": [36, 9, 34, 7],
+					"uvDown": [11, 34, 9, 36]
+				}
+			]
+		},
+		{
+			"id": "body",
+			"rotate": [90, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-0.5, 3, -15, 1, 1, 7],
+					"uvNorth": [48, 38, 49, 39],
+					"uvEast": [20, 9, 27, 10],
+					"uvSouth": [49, 38, 50, 39],
+					"uvWest": [20, 10, 27, 11],
+					"uvUp": [13, 52, 12, 45],
+					"uvDown": [33, 45, 32, 52]
+				}
+			]
+		},
+		{
+			"id": "body",
+			"rotate": [90, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-5.5, -11, -13, 11, 8, 8],
+					"uvNorth": [18, 20, 29, 28],
+					"uvEast": [22, 28, 30, 36],
+					"uvSouth": [0, 22, 11, 30],
+					"uvWest": [29, 17, 37, 25],
+					"uvUp": [39, 17, 28, 9],
+					"uvDown": [22, 28, 11, 36]
+				}
+			]
+		}
+	]
+}

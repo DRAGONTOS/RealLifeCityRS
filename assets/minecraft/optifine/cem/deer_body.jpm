@@ -1,0 +1,127 @@
+{
+  "texture": "textures/entity/cow/deer_body",
+	"textureSize": [64, 64],
+	"credit": "Made with Blockbench",
+	"submodels": [
+		{
+			"id": "rotation",
+			"rotate": [80, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-5, -7.25891, -11.41808, 9, 5, 8],
+					"uvNorth": [16, 23, 25, 28],
+					"uvEast": [0, 30, 8, 35],
+					"uvSouth": [7, 25, 16, 30],
+					"uvWest": [8, 30, 16, 35],
+					"uvUp": [9, 8, 0, 0],
+					"uvDown": [9, 8, 0, 16]
+				}
+			]
+		},
+		{
+			"id": "rotation",
+			"rotate": [90, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-4, -4.20736, -12.29074, 7, 6, 8.5],
+					"uvNorth": [25, 5, 32, 11],
+					"uvEast": [16, 0, 25, 6],
+					"uvSouth": [25, 11, 32, 17],
+					"uvWest": [16, 6, 25, 12],
+					"uvUp": [16, 18, 9, 9],
+					"uvDown": [16, 0, 9, 9]
+				}
+			]
+		},
+		{
+			"id": "rotation",
+			"rotate": [5, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-3, -1.00074, -11.41701, 5, 5, 5],
+					"uvNorth": [32, 17, 37, 22],
+					"uvEast": [16, 34, 21, 39],
+					"uvSouth": [34, 0, 39, 5],
+					"uvWest": [34, 22, 39, 27],
+					"uvUp": [5, 40, 0, 35],
+					"uvDown": [10, 35, 5, 40]
+				}
+			]
+		},
+		{
+			"id": "rotation",
+			"rotate": [95, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-5, 0.54483, -11.53803, 9, 5, 7],
+					"uvNorth": [25, 25, 34, 30],
+					"uvEast": [23, 30, 30, 35],
+					"uvSouth": [25, 0, 34, 5],
+					"uvWest": [30, 30, 37, 35],
+					"uvUp": [9, 23, 0, 16],
+					"uvDown": [25, 16, 16, 23]
+				}
+			]
+		},
+		{
+			"id": "rotation",
+			"rotate": [70, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-4, -7.5438, -10.73969, 7, 4, 7],
+					"uvNorth": [16, 12, 23, 16],
+					"uvEast": [32, 5, 39, 9],
+					"uvSouth": [32, 9, 39, 13],
+					"uvWest": [32, 13, 39, 17],
+					"uvUp": [16, 25, 9, 18],
+					"uvDown": [7, 23, 0, 30]
+				}
+			]
+		},
+		{
+			"id": "rotation",
+			"rotate": [60, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-3, -7.54126, -10.65902, 5, 4, 2],
+					"uvNorth": [10, 35, 15, 39],
+					"uvEast": [23, 12, 25, 16],
+					"uvSouth": [21, 35, 26, 39],
+					"uvWest": [26, 35, 28, 39],
+					"uvUp": [30, 25, 25, 23],
+					"uvDown": [39, 27, 34, 29]
+				}
+			]
+		},
+		{
+			"id": "rotation",
+			"rotate": [95, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-4, 5.52581, -10.97381, 7, 1, 6],
+					"uvNorth": [34, 29, 41, 30],
+					"uvEast": [36, 35, 42, 36],
+					"uvSouth": [36, 36, 43, 37],
+					"uvWest": [36, 37, 42, 38],
+					"uvUp": [32, 23, 25, 17],
+					"uvDown": [23, 28, 16, 34]
+				}
+			]
+		},
+		{
+			"id": "rotation",
+			"rotate": [125, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-1.5, 0.65194, -11.91782, 2, 2, 4],
+					"uvNorth": [7, 23, 9, 25],
+					"uvEast": [30, 23, 34, 25],
+					"uvSouth": [23, 28, 25, 30],
+					"uvWest": [28, 35, 32, 37],
+					"uvUp": [34, 39, 32, 35],
+					"uvDown": [36, 35, 34, 39]
+				}
+			]
+		}
+	]
+}

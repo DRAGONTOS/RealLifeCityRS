@@ -1,0 +1,25 @@
+{
+  "texture": "textures/entity/pig/calimero_3_leg",
+	"textureSize": [16, 16],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [0, 6, 2, 3, 0, 5],
+			"uvNorth": [0, 0, 3, 0],
+			"uvEast": [0, 0, 5, 0],
+			"uvSouth": [0, 0, 3, 0],
+			"uvWest": [0, 0, 5, 0],
+			"uvUp": [3, 5, 0, 0],
+			"uvDown": [6, 3, 3, 8]
+		},
+		{
+			"coordinates": [1, 4, 5, 1, 2, 1],
+			"uvNorth": [3, 0, 4, 2],
+			"uvEast": [4, 0, 5, 2],
+			"uvSouth": [0, 5, 1, 7],
+			"uvWest": [1, 5, 2, 7],
+			"uvUp": [4, 3, 3, 2],
+			"uvDown": [5, 2, 4, 3]
+		}
+	]
+}

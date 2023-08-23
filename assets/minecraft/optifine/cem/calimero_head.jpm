@@ -1,0 +1,34 @@
+{
+  "texture": "textures/entity/pig/calimero_head",
+	"textureSize": [32, 32],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-3.5, -1.5, 1.5, 7, 9, 7],
+			"uvNorth": [0, 0, 6, 8],
+			"uvEast": [6, 6, 12, 14],
+			"uvSouth": [0, 8, 6, 16],
+			"uvWest": [12, 12, 18, 20],
+			"uvUp": [12, 6, 6, 0],
+			"uvDown": [24, 0, 18, 6]
+		},
+		{
+			"coordinates": [-3, -1, 2, 6, 8, 6],
+			"uvNorth": [12, 0, 18, 8],
+			"uvEast": [6, 14, 12, 22],
+			"uvSouth": [0, 16, 6, 24],
+			"uvWest": [18, 18, 24, 26],
+			"uvUp": [24, 12, 18, 6],
+			"uvDown": [24, 12, 18, 18]
+		},
+		{
+			"coordinates": [-2, 5, 1, 4, 1, 1],
+			"uvNorth": [12, 8, 16, 9],
+			"uvEast": [16, 8, 17, 9],
+			"uvSouth": [12, 9, 16, 10],
+			"uvWest": [16, 9, 17, 10],
+			"uvUp": [16, 11, 12, 10],
+			"uvDown": [16, 11, 12, 12]
+		}
+	]
+}

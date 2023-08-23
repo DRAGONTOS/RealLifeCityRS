@@ -1,0 +1,52 @@
+{
+  "texture": "textures/entity/zombie/vampire_body",
+	"textureSize": [64, 64],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-4.5, -2.1, -2.5, 9, 23, 5],
+			"uvNorth": [0, 0, 9, 23],
+			"uvEast": [18, 18, 23, 41],
+			"uvSouth": [9, 9, 18, 32],
+			"uvWest": [0, 23, 5, 46],
+			"uvUp": [18, 5, 9, 0],
+			"uvDown": [27, 13, 18, 18]
+		},
+		{
+			"coordinates": [-4, -2, -2, 8, 13, 4],
+			"uvNorth": [18, 0, 26, 13],
+			"uvEast": [5, 23, 9, 36],
+			"uvSouth": [23, 23, 31, 36],
+			"uvWest": [26, 0, 30, 13],
+			"uvUp": [17, 9, 9, 5],
+			"uvDown": [31, 18, 23, 22]
+		},
+		{
+			"coordinates": [4, -2, -2, 4, 13, 4],
+			"uvNorth": [30, 0, 34, 13],
+			"uvEast": [31, 31, 35, 44],
+			"uvSouth": [31, 13, 35, 26],
+			"uvWest": [9, 32, 13, 45],
+			"uvUp": [31, 17, 27, 13],
+			"uvDown": [35, 26, 31, 30]
+		},
+		{
+			"coordinates": [-8, -2, -2, 4, 13, 4],
+			"uvNorth": [13, 32, 17, 45],
+			"uvEast": [34, 0, 38, 13],
+			"uvSouth": [35, 35, 39, 48],
+			"uvWest": [35, 13, 39, 26],
+			"uvUp": [39, 30, 35, 26],
+			"uvDown": [39, 30, 35, 34]
+		},
+		{
+			"coordinates": [-4.6, -2.2, -2.6, 9.2, 23.2, 5.2],
+			"uvNorth": [39, 36, 48, 59],
+			"uvEast": [48, 13, 53, 36],
+			"uvSouth": [39, 13, 48, 36],
+			"uvWest": [53, 13, 58, 36],
+			"uvUp": [57, 13, 48, 8],
+			"uvDown": [27, 13, 18, 18]
+		}
+	]
+}

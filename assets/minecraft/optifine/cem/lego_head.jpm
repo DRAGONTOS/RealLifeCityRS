@@ -1,0 +1,16 @@
+{
+  "texture": "textures/entity/zombie/lego_head",
+	"textureSize": [8, 8],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-1, 7, -1, 2, 1, 2],
+			"uvNorth": [2, 0, 4, 1],
+			"uvEast": [2, 1, 4, 2],
+			"uvSouth": [2, 2, 4, 3],
+			"uvWest": [2, 3, 4, 4],
+			"uvUp": [2, 2, 0, 0],
+			"uvDown": [2, 2, 0, 4]
+		}
+	]
+}

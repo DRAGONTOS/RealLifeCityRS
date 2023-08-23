@@ -1,0 +1,22 @@
+{
+	"texture": "textures/entity/pig/drone_propeller",
+	"textureSize": [32, 32],
+	"credit": "Made with Blockbench",
+	"submodels": [
+		{
+			"id": "cube",
+			"rotate": [90, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-5, 2, -0.5, 10, 0.5, 1],
+					"uvNorth": [0, 4, 20, 5],
+					"uvEast": [0, 8, 2, 9],
+					"uvSouth": [0, 6, 20, 7],
+					"uvWest": [2, 8, 4, 9],
+					"uvUp": [20, 2, 0, 0],
+					"uvDown": [20, 2, 0, 4]
+				}
+			]
+		}
+	]
+}

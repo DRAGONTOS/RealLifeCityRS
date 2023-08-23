@@ -1,0 +1,52 @@
+{
+  "texture": "textures/entity/pig/stitch_head",
+	"textureSize": [32, 32],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-4, 1, -5, 8, 6, 6],
+			"uvNorth": [0, 0, 8, 6],
+			"uvEast": [0, 12, 6, 18],
+			"uvSouth": [0, 6, 8, 12],
+			"uvWest": [6, 12, 12, 18],
+			"uvUp": [16, 6, 8, 0],
+			"uvDown": [16, 6, 8, 12]
+		},
+		{
+			"coordinates": [-2, -1, -1, 4, 2, 0],
+			"uvNorth": [18, 16, 22, 18],
+			"uvEast": [0, 0, 0, 2],
+			"uvSouth": [18, 18, 22, 20],
+			"uvWest": [0, 0, 0, 2],
+			"uvUp": [4, 0, 0, 0],
+			"uvDown": [4, 0, 0, 0]
+		},
+		{
+			"coordinates": [-1, 4, -5.5, 2, 2, 1],
+			"uvNorth": [16, 8, 18, 10],
+			"uvEast": [19, 6, 20, 8],
+			"uvSouth": [16, 10, 18, 12],
+			"uvWest": [20, 6, 21, 8],
+			"uvUp": [22, 9, 20, 8],
+			"uvDown": [11, 20, 9, 21]
+		},
+		{
+			"coordinates": [4, -2, -1, 3, 8, 0],
+			"uvNorth": [12, 12, 15, 20],
+			"uvEast": [3, 18, 5, 26],
+			"uvSouth": [15, 12, 18, 20],
+			"uvWest": [5, 18, 7, 26],
+			"uvUp": [12, 20, 9, 18],
+			"uvDown": [22, 0, 19, 2]
+		},
+		{
+			"coordinates": [-7, -2, -1, 3, 8, 0],
+			"uvNorth": [16, 0, 19, 8],
+			"uvEast": [7, 18, 9, 26],
+			"uvSouth": [0, 18, 3, 26],
+			"uvWest": [18, 8, 20, 16],
+			"uvUp": [22, 4, 19, 2],
+			"uvDown": [22, 4, 19, 6]
+		}
+	]
+}

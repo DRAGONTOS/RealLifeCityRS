@@ -1,0 +1,97 @@
+{
+  "texture": "textures/entity/pig/perry_body",
+	"textureSize": [64, 64],
+	"credit": "Made with Blockbench",
+	"submodels": [
+		{
+			"id": "body_sub_1",
+			"rotate": [90, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-4, -9, -10, 8, 17, 7],
+					"uvNorth": [0, 0, 8, 17],
+					"uvEast": [16, 16, 23, 33],
+					"uvSouth": [8, 8, 16, 25],
+					"uvWest": [0, 17, 7, 34],
+					"uvUp": [16, 7, 8, 0],
+					"uvDown": [24, 0, 16, 7]
+				}
+			]
+		},
+		{
+			"id": "body_sub_2",
+			"rotate": [90, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-3, -15, -9, 6, 6, 1],
+					"uvNorth": [16, 7, 22, 13],
+					"uvEast": [7, 17, 8, 23],
+					"uvSouth": [22, 7, 28, 13],
+					"uvWest": [7, 23, 8, 29],
+					"uvUp": [14, 8, 8, 7],
+					"uvDown": [22, 13, 16, 14]
+				}
+			]
+		},
+		{
+			"id": "body_sub_3",
+			"rotate": [90, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-1, -10, -8, 2, 1, 0.5],
+					"uvNorth": [14, 7, 16, 8],
+					"uvEast": [22, 13, 23, 14],
+					"uvSouth": [24, 22, 26, 23],
+					"uvWest": [22, 14, 23, 15],
+					"uvUp": [28, 7, 26, 6],
+					"uvDown": [28, 20, 26, 21]
+				}
+			]
+		},
+		{
+			"id": "body_sub_3",
+			"rotate": [90, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-2, -14, -9.5, 4, 5, 0.5],
+					"uvNorth": [23, 23, 27, 28],
+					"uvEast": [23, 18, 24, 23],
+					"uvSouth": [23, 13, 27, 18],
+					"uvWest": [24, 0, 25, 5],
+					"uvUp": [20, 15, 16, 14],
+					"uvDown": [20, 15, 16, 16]
+				}
+			]
+		},
+		{
+			"id": "body_sub_2",
+			"rotate": [90, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [2.25, -9.25, -6, 2, 2, 2],
+					"uvNorth": [20, 14, 22, 16],
+					"uvEast": [24, 5, 26, 7],
+					"uvSouth": [24, 18, 26, 20],
+					"uvWest": [24, 20, 26, 22],
+					"uvUp": [10, 27, 8, 25],
+					"uvDown": [12, 25, 10, 27]
+				}
+			]
+		},
+		{
+			"id": "body_sub_3",
+			"rotate": [90, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-4.25, -9.25, -6, 2, 2, 2],
+					"uvNorth": [12, 25, 14, 27],
+					"uvEast": [14, 25, 16, 27],
+					"uvSouth": [25, 0, 27, 2],
+					"uvWest": [25, 2, 27, 4],
+					"uvUp": [28, 6, 26, 4],
+					"uvDown": [28, 18, 26, 20]
+				}
+			]
+		}
+	]
+}

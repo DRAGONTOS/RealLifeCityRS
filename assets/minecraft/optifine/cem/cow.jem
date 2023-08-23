@@ -1,0 +1,182 @@
+{
+  "comment": "model by luccah",
+  "textureSize": [64,64],
+  "models":
+  [
+	{
+      "model": "appa_head.jpm",
+      "part": "head",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "appa_body.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+  {
+      "model": "appa_1_leg.jpm",
+      "part": "leg1",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+      },
+    {
+        "model": "appa_2_leg.jpm",
+        "part": "leg2",
+        "attach": true,
+        "translate": [0, 0, 0],
+        "rotate": [0, 0, 0]
+        },
+      {
+        "model": "appa_3_leg.jpm",
+        "part": "leg3",
+        "attach": true,
+        "translate": [0, 0, 0],
+        "rotate": [0, 0, 0]
+        },
+      {
+        "model": "appa_4_leg.jpm",
+        "part": "leg4",
+        "attach": true,
+        "translate": [0, 0, 0],
+        "rotate": [0, 0, 0]
+      },
+	{
+      "model": "robot.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [-0.25, 8, -4],
+      "rotate": [0, 180, 0]
+    },
+    {
+      "model": "deer_head.jpm",
+      "part": "head",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "deer_body.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [-90, 0, 0]
+    },
+    {
+      "model": "deer_1_leg.jpm",
+      "part": "leg1",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "deer_2_leg.jpm",
+      "part": "leg2",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "deer_3_leg.jpm",
+      "part": "leg3",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "deer_4_leg.jpm",
+      "part": "leg4",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "bear_head.jpm",
+      "part": "head",
+      "attach": true,
+      "translate": [0.6, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "bear_body.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [-90, 0, 0]
+    },
+    {
+      "model": "bear_1_leg.jpm",
+      "part": "leg1",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "bear_2_leg.jpm",
+      "part": "leg2",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "bear_3_leg.jpm",
+      "part": "leg3",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "bear_4_leg.jpm",
+      "part": "leg4",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "pumba_head.jpm",
+      "part": "head",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "pumba_body.jpm",
+      "part": "body",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [-90, 0, 0]
+    },
+    {
+      "model": "pumba_1_leg.jpm",
+      "part": "leg1",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "pumba_2_leg.jpm",
+      "part": "leg2",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "pumba_3_leg.jpm",
+      "part": "leg3",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "pumba_4_leg.jpm",
+      "part": "leg4",
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}
