@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/glazed_terracotta",
+	"textures": {
+		"particle": "blocks/extra/planks_birch",
+		"pattern": "blocks/extra/planks_birch"
+	}
+}
