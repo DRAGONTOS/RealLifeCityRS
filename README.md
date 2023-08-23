@@ -1,17 +1,15 @@
 # RealLifeCityRS
 My distrobution of the DDG Resourcepack https://forum.dusdavidgames.nl/packs/
 
-# Original 1.12.2
-**Name**: SentilCity Resourcepack
+# Original 1.12.2 Ported to 1.16.5!
+Has been ported from 1.12.2 to 1.16.5, Also changed
+branding to a neutral one.
+
+## Basic Description
+**Name**: RealLifeCityRS Resourcepack
 
 
-**Description**: [SentilCity] Resource Pack (PRE-ALPHA8) 
+**Description**: [RealLifeCity] Resource Pack (wba0.1) 
 
 
-**Version**: Pre-Alpha 8 (wa0.8)
-
-
-**Size** 81.61MB
-
-
-**Link**: https://www.mediafire.com/file/x34on8mgca9u640/Pre-Alpha_8.zip/file
+**Version**: Pre-NewAlpha 1 (wba0.1)
