@@ -20,15 +20,16 @@ branding to a neutral one.
 ## Status of the Port
 
 ### Needs to be fixed
-* All the Clothing
-* en_us.lang needs to be fixed
-* Water Texture is Incorrect
-* Bushy Leaves
-* Corectly add Credit to Diffrent Authers
+* All is fixed
 
 ### Has been fixed
 * All the Custom Items
 * Custom Sounds
+* All the Clothing
+* en_us.lang 
+* Water Texture 
+* Bushy Leaves
+* Corectly add Credit to Diffrent Authers
 
 ### Stuck/Wont fix
 * None Yet!
