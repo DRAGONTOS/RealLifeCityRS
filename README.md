@@ -12,10 +12,10 @@ branding to a neutral one.
 **Name**: RealLifeCityRS Resourcepack
 
 
-**Description**: [RealLifeCity] Resource Pack (wba0.1.4) 
+**Description**: [RealLifeCity] Resource Pack (oq1) 
 
 
-**Version**: Pre-16Alpha 1.4 (wba0.1.4)
+**Version**: Final Release(oq1)
 
 ## Status of the Port
 
