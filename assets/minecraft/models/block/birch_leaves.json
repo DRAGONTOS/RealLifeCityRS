@@ -1,6 +1,7 @@
 {
-    "parent": "block/leaves",
+    "parent":"block/leaves_cross",
     "textures": {
-        "all": "blocks/leaves_birch"
+        "all":"block/birch_leaves",
+	"bushy": "block/birch_leaves_bushy"
     }
 }

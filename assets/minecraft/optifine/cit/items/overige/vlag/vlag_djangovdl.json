@@ -1,9 +1,0 @@
-{
-	"credit": "robinnoob220 ;p",
-	"parent": "./vlag_ddg11jaar",
-	"textures": {
-		"0": "blocks/planks_spruce",
-		"3": "./vlag_djangovdl",
-		"particle": "blocks/planks_spruce"
-	}
-}

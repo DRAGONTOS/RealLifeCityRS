@@ -1,8 +1,0 @@
-{
-	"parent": "./vuvuzela_blauw.json",
-	"textures": {
-		"0": "blocks/concrete_black",
-		"1": "blocks/concrete_lime",
-		"particle": "blocks/concrete_black"
-	}
-}

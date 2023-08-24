@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "block/glazed_terracotta",
-	"textures": {
-		"particle": "blocks/extra/sandstone_carved",
-		"pattern": "blocks/extra/sandstone_carved"
-	}
-}
