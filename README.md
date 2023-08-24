@@ -15,7 +15,7 @@ branding to a neutral one.
 **Description**: [RealLifeCity] Resource Pack (oq1) 
 
 
-**Version**: Final Release(oq1)
+**Version**: Final-Release(oq1)
 
 ## Status of the Port
 
